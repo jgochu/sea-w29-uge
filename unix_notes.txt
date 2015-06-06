@@ -1,3 +1,40 @@
+cd codefellows
+cd unix-and-git-workshop/
+cd workshop
+man git
+git status
+git pull
+git diff --staged
+git diff
+subl unix_notes.txt
+git log
+git sta
+
+# commit modified file
+git commit -m "added comment to first few lines"
+
+# made changes to file and then staged to git w/ add command
+# tried to look at changes from first commit with git diff --staged
+
+git diff -staged
+git diff unix_notes.txt
+git diff staged
+git add unix_notes.txt
+
+# committed staged file to repo
+git commit -m "Add initial version of unix notes"
+
+# changed directory to hidden git directory and look at list
+ls
+cd .git
+
+# look at all files in current directory to see hidden ones with flag
+ls -a
+ls -A
+
+# initialize git repo
+git init
+
 ls /music
 # list current directory
 ls
