@@ -1,19 +1,22 @@
 ls /music
+# list current directory
 ls
+
 ls | grep Music/
-rm moving_around.txt 
+
+# deletes file
+rm moving_around.txt
+
+# lists current directory
 dir
+
+# creates text file of the history of terminal
 history > moving_around.txt
+
+# executes bash shell
 bash
-history | less
-history less
-history -l
-history
-pwd
-cd
-git status
-cd jgochu
-cd codeFellows/workshop/unix-and-git-workshop/
+
+# takes history command and sending output to less operation
 exit
 subl
 help
@@ -80,7 +83,7 @@ git version
 which git
 /.profile
 echo $PATH /usr/local/bin
-echo $PATH 
+echo $PATH
 echo $EDITOR
 man python
 python
@@ -90,23 +93,23 @@ q
 man fish
 man csh
 which fish
-which 
+which
 git
-echo $SHELL 
+echo $SHELL
 git config
 git --version
 subl ~/.config/fish/config.fish
-fish_update_completions 
-ls 
+fish_update_completions
+ls
 curl -fsSL http://git.io/beJs | ruby
 curl -fsSL http://git.ic/beJs | ruby
 chsh -s /usr/bin/fish
 sudo apt-get install -y fish git
-sudo apt-get check 
+sudo apt-get check
 ls /bin/fish
 cd /usr/
 ls -G
-uname 
+uname
 ps aux
 ps
 top
@@ -118,7 +121,7 @@ sudo apt-get update
 sudo add-apt-repository ppa:wseverin/ppa
 sudo iwlist wlan0 scan | grep \(Channel
 iwconfig
-ifconfig 
+ifconfig
 lsusb
 git push
 git push finalAssignment cf-sort-hw.git
@@ -127,10 +130,10 @@ git push finalAssignment jgochu/cf-sort-hw
 git push finalAssignment https://github.com/jgochu/cf-sort-hw.git
 git push finalAssignment cf-sort-hw
 git push finalAssignment cf-sort-hw/
-git push finalAssignment 
+git push finalAssignment
 git commit -m "final"
 git add index.html
-git add beastmode.css 
+git add beastmode.css
 git add IMAGES/
 git add images
 git add images/
@@ -169,7 +172,7 @@ sudo apt-get install -y curl
 uname
 git push -u origin master
 git remote add origin https://github.com/jgochu/shiny-avenger.git
-git push jgochu 
+git push jgochu
 git push codefellows raceGame
 git log
 git diff
@@ -264,7 +267,7 @@ history > moving_around.txt
 ls /music
 ls
 ls | grep Music/
-rm moving_around.txt 
+rm moving_around.txt
 dir
 bash
 history | less
@@ -342,7 +345,7 @@ git version
 which git
 /.profile
 echo $PATH /usr/local/bin
-echo $PATH 
+echo $PATH
 echo $EDITOR
 man python
 python
@@ -352,23 +355,23 @@ q
 man fish
 man csh
 which fish
-which 
+which
 git
-echo $SHELL 
+echo $SHELL
 git config
 git --version
 subl ~/.config/fish/config.fish
-fish_update_completions 
-ls 
+fish_update_completions
+ls
 curl -fsSL http://git.io/beJs | ruby
 curl -fsSL http://git.ic/beJs | ruby
 chsh -s /usr/bin/fish
 sudo apt-get install -y fish git
-sudo apt-get check 
+sudo apt-get check
 ls /bin/fish
 cd /usr/
 ls -G
-uname 
+uname
 ps aux
 ps
 top
@@ -380,7 +383,7 @@ sudo apt-get update
 sudo add-apt-repository ppa:wseverin/ppa
 sudo iwlist wlan0 scan | grep \(Channel
 iwconfig
-ifconfig 
+ifconfig
 lsusb
 git push
 git push finalAssignment cf-sort-hw.git
@@ -389,10 +392,10 @@ git push finalAssignment jgochu/cf-sort-hw
 git push finalAssignment https://github.com/jgochu/cf-sort-hw.git
 git push finalAssignment cf-sort-hw
 git push finalAssignment cf-sort-hw/
-git push finalAssignment 
+git push finalAssignment
 git commit -m "final"
 git add index.html
-git add beastmode.css 
+git add beastmode.css
 git add IMAGES/
 git add images
 git add images/
@@ -431,7 +434,7 @@ sudo apt-get install -y curl
 uname
 git push -u origin master
 git remote add origin https://github.com/jgochu/shiny-avenger.git
-git push jgochu 
+git push jgochu
 git push codefellows raceGame
 git log
 git diff
