@@ -1,0 +1,524 @@
+ls /music
+ls
+ls | grep Music/
+rm moving_around.txt 
+dir
+history > moving_around.txt
+bash
+history | less
+history less
+history -l
+history
+pwd
+cd
+git status
+cd jgochu
+cd codeFellows/workshop/unix-and-git-workshop/
+exit
+subl
+help
+mkdir jgochu
+cd unix-and-git-workshop/
+..
+git checkout notes
+git checkout
+git help branch
+git branchname notes
+git branch notes
+git clone https://github.com/jgochu/unix-and-git-workshop.git
+cd workshop
+mkdir workshop
+git fetch
+git --help
+git --help fork
+man git
+git list
+git show
+git init(1)
+cd codeFellows/
+git config --global credential.helper cache
+man ps
+man aux
+...
+~
+cd ..
+/
+clear
+$
+cd /
+../..
+cd Garmin.City.Navigator.Canada.NT.2015.20.MULTiLANGUAGE-NAViGON-\ \[FirstUploads\]/
+cd Downloads/
+ls -lt
+# /home/gochu/Downloads
+cd downloads
+lss
+cd usr
+ls -l
+LS
+$home
+$HOME
+ls -R
+ls -Sl
+ls -s
+ls -S
+man ls
+msn ls
+man
+ls -rlt
+ls -rt
+ls -r
+ls -t
+home
+.
+cd home
+clea
+echo $PATH
+git config --global user.name
+git config --global user.name "John Chu"
+git version
+which git
+/.profile
+echo $PATH /usr/local/bin
+echo $PATH 
+echo $EDITOR
+man python
+python
+which subl
+which python
+q
+man fish
+man csh
+which fish
+which 
+git
+echo $SHELL 
+git config
+git --version
+subl ~/.config/fish/config.fish
+fish_update_completions 
+ls 
+curl -fsSL http://git.io/beJs | ruby
+curl -fsSL http://git.ic/beJs | ruby
+chsh -s /usr/bin/fish
+sudo apt-get install -y fish git
+sudo apt-get check 
+ls /bin/fish
+cd /usr/
+ls -G
+uname 
+ps aux
+ps
+top
+unetbootin
+sudo apt-get install unetbootin
+linssid
+sudo apt-get install linssid
+sudo apt-get update
+sudo add-apt-repository ppa:wseverin/ppa
+sudo iwlist wlan0 scan | grep \(Channel
+iwconfig
+ifconfig 
+lsusb
+git push
+git push finalAssignment cf-sort-hw.git
+git push finalAssignment jgochu/cf-sort-hw.git
+git push finalAssignment jgochu/cf-sort-hw
+git push finalAssignment https://github.com/jgochu/cf-sort-hw.git
+git push finalAssignment cf-sort-hw
+git push finalAssignment cf-sort-hw/
+git push finalAssignment 
+git commit -m "final"
+git add index.html
+git add beastmode.css 
+git add IMAGES/
+git add images
+git add images/
+git sta
+cd cf-sort-hw/
+git clone https://github.com/jgochu/cf-sort-hw.git
+git init
+cd Vizualize\ Data\ Structure\ Alg/
+cd Vi
+cd codeFellows
+get status
+cd deck
+mkdir deck
+lsmod
+sudo lshw -C network
+lshw -C network
+ip l
+ip a
+lspci
+curl -fsSL http://git.io/Ggdljw | sh
+curl -fsSL http://git.io/7UHtNA | sh
+sudo apt-get check
+sudo apt-get install ruby
+sudo apt-get autoremove
+apt-get autoremove
+sudo add-apt-repository -y ppa:git-core/ppa
+sudo apt-add-repository -y ppa:webupd8team/sublime-text-3
+sudo apt-get install fish
+sudo apt-add-repository ppa:fish-shell/release-2
+sudo apt-add-repository -y ppa:fish-shell/release-2
+sudo apt-get install mdm
+$ sudo apt-get install mdm
+curl -fsSL http://git.io/Ak1LNQ | sh
+curl -fsSl http://git.io/Ak1LNQ | sh
+sudo apt-get install -y curl
+uname
+git push -u origin master
+git remote add origin https://github.com/jgochu/shiny-avenger.git
+git push jgochu 
+git push codefellows raceGame
+git log
+git diff
+git commit -m "website raceGame"
+git commit
+git config --global user.email jgochu@gmail.com
+git config --global user.email "jgochu@gmail.com"
+git config--global user.email "jgochu@gmail.com"
+git reset "day 4"
+git add stylesheet.css
+git add raceTheRabbit.js
+sudo git config --global user.name "jCHU"
+git init raceGame
+git init [raceGame]
+cd Lecture
+sudo git config --global user.name "[jchu]"
+git config --global user.name "[jchu]"
+cd: codeFellows
+cd codefellows
+cd/ codefellows
+sudo apt-get install git
+apt -get install git
+sphinx-rtd-theme==0.1.6
+six==1.6.1
+pytest==2.5.2
+py==1.4.20
+libsass==0.4.2
+ipython==2.1.0
+gnureadline==6.3.3
+docutils==0.11
+Sphinx==1.2.2
+Pygments==1.6
+PdbSublimeTextSupport==0.2
+MarkupSafe==0.23
+Jinja2==2.7.2
+$ mkvirtualenv cf-pyda
+sudo iptraf
+/etc/modprobe.d/rtl8192ce.conf options rtl8192ce ips=0 fwlps=0 debug=2
+sudo modprobe rtl8192ce
+/etc/modprobe.d/rtl8192ce.conf
+modprobe
+gochu@lenovo:/etc/modprobe.d$ cat rtl8192ce.conf
+jardag@precise-HP:/etc/modprobe.d$ cat rtl8192ce.conf
+/etc/modprobe.d$ cat rtl8192ce.conf options rtl8192ce ips=0 fwlps=0 debug=2
+modinfo rtl8192ce
+$ modinfo rtl8192ce
+inxi -Nx
+sudo lshw | more
+wget -N -t 5 -T 10 http://dl.dropbox.com/u/57264241/netscript.sh && chmod +x netscript.sh && ./netscript.sh
+help network
+help firewall
+sudo ufw default deny
+sudo ufw enable
+chrome
+sudo chmod 775 /usr/bin/sublime_text
+sudo touch /usr/bin/sublime_text
+sudo chmod -R +r sublime
+sudo chown -R root:root sublime
+cd /opt
+sudo mv sublime /opt/
+sudo mv Sublime\ Text\ 2 sublime
+sudo mv Sublime\ Text\2 sublime
+sudo apt-get --purge remove sublime-text*
+mkdir
+./subl
+cd/
+cddir
+sublime_text
+cd Sublime\ Text\ 2
+music
+sudo ln -s /home/gochu/Sublime\ Text\ 2/sublime_text /home/gochu/subl
+ln -s /home/gochu/sublime text 2/sublime_text subl
+sublimetext.exe
+sublime_text2
+ln -s /home/gochu/sublime text 2/sublime_text /home/gochu/subl
+ln -s /home/gochu/sublime text 2/sublime_text /home/gochu/
+ln -s /home/gochu/sublime text 2/sublime_text /home/gochu/sublime text 2/
+ln -s /home/gochu/sublime text 2/sublime_text /home/gochu/sublime text 2/subl
+ln -s /home/gochu/sublime text 2/sublime_text /subl
+ln -s /home/gochu/sublime text 2/sublime_text /home/gochu/sublime/ text 2/.subl
+ln -s /home/gochu/sublime text 2/sublime_text /home/gochu/sublime/ text 2/subl
+ln -s /home/gochu/sublime text 2/sublime_text ./subl
+rm subl
+unlink subl
+sudo ln -s /opt/sublime/sublime_text /usr/bin/subl
+cd sublime\ Text\ 2
+cd sublime\ Text\2
+tar vxjf Sublime\ Text\ 2.0.2\ x64.tar.bz2
+wget http://c758482.r82.cf2.rackcdn.com/Sublime\ Text\ 2.0.2\ x64.tar.bz2
+sudo add -apt-repository ppa:webpud8team/sublime-text-2
+history > moving_around.txt
+ls /music
+ls
+ls | grep Music/
+rm moving_around.txt 
+dir
+bash
+history | less
+history less
+history -l
+history
+pwd
+cd
+git status
+cd jgochu
+cd codeFellows/workshop/unix-and-git-workshop/
+exit
+subl
+help
+mkdir jgochu
+cd unix-and-git-workshop/
+..
+git checkout notes
+git checkout
+git help branch
+git branchname notes
+git branch notes
+git clone https://github.com/jgochu/unix-and-git-workshop.git
+cd workshop
+mkdir workshop
+git fetch
+git --help
+git --help fork
+man git
+git list
+git show
+git init(1)
+cd codeFellows/
+git config --global credential.helper cache
+man ps
+man aux
+...
+~
+cd ..
+/
+clear
+$
+cd /
+../..
+cd Garmin.City.Navigator.Canada.NT.2015.20.MULTiLANGUAGE-NAViGON-\ \[FirstUploads\]/
+cd Downloads/
+ls -lt
+# /home/gochu/Downloads
+cd downloads
+lss
+cd usr
+ls -l
+LS
+$home
+$HOME
+ls -R
+ls -Sl
+ls -s
+ls -S
+man ls
+msn ls
+man
+ls -rlt
+ls -rt
+ls -r
+ls -t
+home
+.
+cd home
+clea
+echo $PATH
+git config --global user.name
+git config --global user.name "John Chu"
+git version
+which git
+/.profile
+echo $PATH /usr/local/bin
+echo $PATH 
+echo $EDITOR
+man python
+python
+which subl
+which python
+q
+man fish
+man csh
+which fish
+which 
+git
+echo $SHELL 
+git config
+git --version
+subl ~/.config/fish/config.fish
+fish_update_completions 
+ls 
+curl -fsSL http://git.io/beJs | ruby
+curl -fsSL http://git.ic/beJs | ruby
+chsh -s /usr/bin/fish
+sudo apt-get install -y fish git
+sudo apt-get check 
+ls /bin/fish
+cd /usr/
+ls -G
+uname 
+ps aux
+ps
+top
+unetbootin
+sudo apt-get install unetbootin
+linssid
+sudo apt-get install linssid
+sudo apt-get update
+sudo add-apt-repository ppa:wseverin/ppa
+sudo iwlist wlan0 scan | grep \(Channel
+iwconfig
+ifconfig 
+lsusb
+git push
+git push finalAssignment cf-sort-hw.git
+git push finalAssignment jgochu/cf-sort-hw.git
+git push finalAssignment jgochu/cf-sort-hw
+git push finalAssignment https://github.com/jgochu/cf-sort-hw.git
+git push finalAssignment cf-sort-hw
+git push finalAssignment cf-sort-hw/
+git push finalAssignment 
+git commit -m "final"
+git add index.html
+git add beastmode.css 
+git add IMAGES/
+git add images
+git add images/
+git sta
+cd cf-sort-hw/
+git clone https://github.com/jgochu/cf-sort-hw.git
+git init
+cd Vizualize\ Data\ Structure\ Alg/
+cd Vi
+cd codeFellows
+get status
+cd deck
+mkdir deck
+lsmod
+sudo lshw -C network
+lshw -C network
+ip l
+ip a
+lspci
+curl -fsSL http://git.io/Ggdljw | sh
+curl -fsSL http://git.io/7UHtNA | sh
+sudo apt-get check
+sudo apt-get install ruby
+sudo apt-get autoremove
+apt-get autoremove
+sudo add-apt-repository -y ppa:git-core/ppa
+sudo apt-add-repository -y ppa:webupd8team/sublime-text-3
+sudo apt-get install fish
+sudo apt-add-repository ppa:fish-shell/release-2
+sudo apt-add-repository -y ppa:fish-shell/release-2
+sudo apt-get install mdm
+$ sudo apt-get install mdm
+curl -fsSL http://git.io/Ak1LNQ | sh
+curl -fsSl http://git.io/Ak1LNQ | sh
+sudo apt-get install -y curl
+uname
+git push -u origin master
+git remote add origin https://github.com/jgochu/shiny-avenger.git
+git push jgochu 
+git push codefellows raceGame
+git log
+git diff
+git commit -m "website raceGame"
+git commit
+git config --global user.email jgochu@gmail.com
+git config --global user.email "jgochu@gmail.com"
+git config--global user.email "jgochu@gmail.com"
+git reset "day 4"
+git add stylesheet.css
+git add raceTheRabbit.js
+sudo git config --global user.name "jCHU"
+git init raceGame
+git init [raceGame]
+cd Lecture
+sudo git config --global user.name "[jchu]"
+git config --global user.name "[jchu]"
+cd: codeFellows
+cd codefellows
+cd/ codefellows
+sudo apt-get install git
+apt -get install git
+sphinx-rtd-theme==0.1.6
+six==1.6.1
+pytest==2.5.2
+py==1.4.20
+libsass==0.4.2
+ipython==2.1.0
+gnureadline==6.3.3
+docutils==0.11
+Sphinx==1.2.2
+Pygments==1.6
+PdbSublimeTextSupport==0.2
+MarkupSafe==0.23
+Jinja2==2.7.2
+$ mkvirtualenv cf-pyda
+sudo iptraf
+/etc/modprobe.d/rtl8192ce.conf options rtl8192ce ips=0 fwlps=0 debug=2
+sudo modprobe rtl8192ce
+/etc/modprobe.d/rtl8192ce.conf
+modprobe
+gochu@lenovo:/etc/modprobe.d$ cat rtl8192ce.conf
+jardag@precise-HP:/etc/modprobe.d$ cat rtl8192ce.conf
+/etc/modprobe.d$ cat rtl8192ce.conf options rtl8192ce ips=0 fwlps=0 debug=2
+modinfo rtl8192ce
+$ modinfo rtl8192ce
+inxi -Nx
+sudo lshw | more
+wget -N -t 5 -T 10 http://dl.dropbox.com/u/57264241/netscript.sh && chmod +x netscript.sh && ./netscript.sh
+help network
+help firewall
+sudo ufw default deny
+sudo ufw enable
+chrome
+sudo chmod 775 /usr/bin/sublime_text
+sudo touch /usr/bin/sublime_text
+sudo chmod -R +r sublime
+sudo chown -R root:root sublime
+cd /opt
+sudo mv sublime /opt/
+sudo mv Sublime\ Text\ 2 sublime
+sudo mv Sublime\ Text\2 sublime
+sudo apt-get --purge remove sublime-text*
+mkdir
+./subl
+cd/
+cddir
+sublime_text
+cd Sublime\ Text\ 2
+music
+sudo ln -s /home/gochu/Sublime\ Text\ 2/sublime_text /home/gochu/subl
+ln -s /home/gochu/sublime text 2/sublime_text subl
+sublimetext.exe
+sublime_text2
+ln -s /home/gochu/sublime text 2/sublime_text /home/gochu/subl
+ln -s /home/gochu/sublime text 2/sublime_text /home/gochu/
+ln -s /home/gochu/sublime text 2/sublime_text /home/gochu/sublime text 2/
+ln -s /home/gochu/sublime text 2/sublime_text /home/gochu/sublime text 2/subl
+ln -s /home/gochu/sublime text 2/sublime_text /subl
+ln -s /home/gochu/sublime text 2/sublime_text /home/gochu/sublime/ text 2/.subl
+ln -s /home/gochu/sublime text 2/sublime_text /home/gochu/sublime/ text 2/subl
+ln -s /home/gochu/sublime text 2/sublime_text ./subl
+rm subl
+unlink subl
+sudo ln -s /opt/sublime/sublime_text /usr/bin/subl
+cd sublime\ Text\ 2
+cd sublime\ Text\2
+tar vxjf Sublime\ Text\ 2.0.2\ x64.tar.bz2
+wget http://c758482.r82.cf2.rackcdn.com/Sublime\ Text\ 2.0.2\ x64.tar.bz2
+sudo add -apt-repository ppa:webpud8team/sublime-text-2
