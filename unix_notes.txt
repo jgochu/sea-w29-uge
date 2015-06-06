@@ -1,7 +1,7 @@
 ls /music
 # list current directory
 ls
-
+jljlj
 ls | grep Music/
 
 # deletes file
